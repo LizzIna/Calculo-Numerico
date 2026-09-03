@@ -10,7 +10,7 @@ for i in range(n):
     
     if a != 0:
         division = b / a
-        print(f"Paso {i}: {b} / {a} = {division:.3f}")
+        print(f"Paso {i}: {b} / {a} = {division}")
     
     a, b = b, a + b
 
