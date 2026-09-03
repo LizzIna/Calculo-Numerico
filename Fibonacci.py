@@ -1,6 +1,6 @@
 n = int(input("ingresa la cantidad de numeros: "))
 
-a = 0
+a = 1
 b = 1
 
 fibonacci = []
