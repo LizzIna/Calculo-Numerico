@@ -1,6 +1,6 @@
 from math import pi
 
-n = 1000
+n = 10000
 
 suma = 0.0 # comienza en 0 y toma decimales
 
